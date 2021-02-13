@@ -27,7 +27,7 @@ address = "Room 52 25 Campus Drive, Nutrien Centre, University of Saskatchewan S
 avatar = "/img/image01.jpg"
 color_theme = "ocean"
 comment_count = false
-custom_css = []
+custom_css = ["@import url(\"https://use.typekit.net/ffm5ass.css\"); body { font-family: aw-conqueror-sans", "sans-serif; font-weight: 300; font-style: normal; }"]
 custom_js = []
 date_format = "Jan 2, 2006"
 email = "contact@grantwilson.ca"
@@ -82,11 +82,6 @@ icon = "google-scholar"
 icon_pack = "ai"
 link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
 
-[[params.social]]
-icon = "github"
-icon_pack = "fa"
-link = "//github.com/gcushen"
-
 [params.talks]
 time = true
 
@@ -101,11 +96,6 @@ weight = 1
 name = "Publications"
 url = "#publications_selected"
 weight = 2
-
-[[menu.main]]
-name = "Posts"
-url = "#posts"
-weight = 3
 
 [[menu.main]]
 name = "Projects"
@@ -127,6 +117,11 @@ name = "Contact"
 url = "#contact"
 weight = 7
 
+[[menu.main]]
+name = "Consulting"
+url = "#consulting"
+weight = "8"
+
 [taxonomies]
 category = "categories"
 publication_type = "publication_types"
@@ -135,4 +130,4 @@ tag = "tags"
 [Languages]
 
 [Languages.en]
-languageCode = "en-us"
+languageCode = "en-ca"
