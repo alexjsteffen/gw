@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "Dr. Grant Alexander Wilson PhD"
+title = "Dr. Grant Alexander Wilson"
 copyright = "Dr. Grant Alexander Wilson, 2021"
 theme = "academic"
 enableEmoji = true
@@ -25,13 +25,13 @@ smartypants = true
 [params]
 address = "Room 52 25 Campus Drive, Nutrien Centre, University of Saskatchewan Saskatoon, Saskatchewan, S7N 5A7 Canada"
 avatar = "/img/image01.jpg"
-color_theme = "coffee"
+color_theme = "ocean"
 comment_count = false
 custom_css = []
 custom_js = []
 date_format = "Jan 2, 2006"
 email = "contact@grantwilson.ca"
-font = "classic"
+font = "playfair"
 gravatar = false
 highlight = true
 highlight_languages = []
