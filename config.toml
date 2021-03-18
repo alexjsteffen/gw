@@ -27,7 +27,7 @@ address = "Room 52 25 Campus Drive, Nutrien Centre, University of Saskatchewan S
 avatar = "/img/image01.jpg"
 color_theme = "ocean"
 comment_count = false
-custom_css = ["@import url(\"https://use.typekit.net/ffm5ass.css\"); body { font-family: aw-conqueror-sans, sans-serif; font-weight: 300; font-style: normal; }"]
+custom_css = ["@import url(\"https://use.typekit.net/ffm5ass.css\"); body { font-family: marine", "sans-serif; font-weight: 300; font-style: normal; }"]
 custom_js = []
 date_format = "Jan 2, 2006"
 email = "contact@grantwilson.ca"
@@ -50,7 +50,7 @@ publication_types = ["Uncategorized", "Conference paper", "Journal article", "Ma
 reading_time = true
 role = "Faculty Member, Department of Management and Marketing"
 section_pager = false
-sharing = true
+sharing = false
 skype = ""
 telegram = ""
 time_format = "3:04 PM"
@@ -64,7 +64,7 @@ name = "University of Sasktchewan, Edwards School of Business"
 url = "edwards.usask.ca"
 
 [params.projects]
-list_children = true
+list_children = false
 publication_format = 3
 
 [[params.social]]
@@ -98,11 +98,6 @@ url = "#publications_selected"
 weight = 2
 
 [[menu.main]]
-name = "Projects"
-url = "#projects"
-weight = 4
-
-[[menu.main]]
 name = "Teaching"
 url = "#teaching"
 weight = 5
@@ -130,4 +125,4 @@ tag = "tags"
 [Languages]
 
 [Languages.en]
-languageCode = "en-us"
+languageCode = "en-ca"
