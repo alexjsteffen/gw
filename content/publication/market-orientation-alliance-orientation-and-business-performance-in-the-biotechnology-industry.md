@@ -22,17 +22,7 @@ abstract: >-
   industry.  The study surveyed Canadian biotechnology executives via mail and
   web-based questionnaires.  It was found that the relationship between MO and
   PERF was positive and significant and the relationship between AO and PERF was
-  positive and significant.  It was also found that the relationship between MO
-  and AO was positive and significant, supporting the existence of a mediation
-  relationship.Â  Specifically, MOAE™s influence on PERF was found to be fully
-  mediated by AO.Â  This suggests that Canadian medical/healthcare biotechnology
-  companies that were highly market-oriented were also highly alliance-oriented,
-  and highly alliance-oriented companies were top performing companies.  This
-  study outlines the apparent sequential relationship between market-oriented
-  behavioural commitments, alliance-oriented activities, and business
-  performance outcomes among Canadian biotechnology companies.  Furthermore, it
-  has business development and the commercialization process implications for
-  biotechnology managers.
+  positive and significant. 
 abstract_short: >-
   The purpose of this study was to test the unexplored relationship between
   market orientation (MO), alliance orientation (AO), and business performance
@@ -49,4 +39,10 @@ url_poster: 'http://commercialbiotechnology.com/index.php/jcb/article/view/645'
 url_source: 'http://commercialbiotechnology.com/index.php/jcb/article/view/645'
 math: true
 ---
+## Results and Signifigance 
 
+In this paper, it  found that the relationship between MO and AO was positive and significant, supporting the existence of a mediation relationship.Â  Specifically, MOAE™s influence on PERF was found to be fully mediated by AO.
+
+This suggests that Canadian medical/healthcare biotechnology companies that were highly market-oriented were also highly alliance-oriented, and highly alliance-oriented companies were top performing companies.  
+
+This study outlines the apparent sequential relationship between market-oriented behavioural commitments, alliance-oriented activities, and business performance outcomes among Canadian biotechnology companies.  Furthermore, it has business development and the commercialization process implications for biotechnology managers.
