@@ -10,15 +10,15 @@ interests:
     - and Technology Commercialization
 education:
   courses:
-    - course: ML for dummies
-      institution: University of Salamanca
-      year: 2019
-    - course: Statistics
-      institution: University of Salamanca
-      year: 2019
-    - course: eeeed
-      institution: eeee
-      year: '2022'
+    - course: COMM 101 (Introduction to Business)
+      institution: 'Edwards School of Business, University of Saskatchewan '
+      year: 2017-present
+    - course: COMM 447 (Entrepreneurship and Venture Development)
+      institution: 'Edwards School of Business, University of Saskatchewan'
+      year: 2017-present
+    - course: BAC 37 (Business Decision Making)
+      institution: 'Edwards School of Business, University of Saskatchewan'
+      year: 2017-present
 ---
 ### **Department of Management and Marketing**
 **Edwards School of Business**\
