@@ -21,6 +21,7 @@ education:
       year: 2017-present
 ---
 ### **Department of Management and Marketing**
+
 **Edwards School of Business**\
 University of Saskatchewan
 
@@ -29,3 +30,5 @@ I have been a member of the Department of Management and Marketing at Edwards Sc
 My Ph.D. research explores the effects of market orientation, entrepreneurial orientation, and innovation on organizational performance among retail pharmacies.
 
 I teach strategic management, entrepreneurship, and technology commercialization courses and his current research interests include entrepreneurship, marketing, consumer economics, and organizational learning.
+
+Current CV: [PDF](https://ajhs.b-cdn.net/grantwilson.ca/cv/G%20A%20Wilson%202021%20CV.pdf)
