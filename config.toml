@@ -27,7 +27,7 @@ address = "Room 52 25 Campus Drive, Nutrien Centre, University of Saskatchewan S
 avatar = "/img/image01.jpg"
 color_theme = "ocean"
 comment_count = false
-custom_css = ["@import url(\"https://use.typekit.net/ffm5ass.css\"); body { font-family: marine", "sans-serif; font-weight: 300; font-style: normal; }"]
+custom_css = ["@import url(\"https://use.typekit.net/ffm5ass.css\");"]
 custom_js = []
 date_format = "2006-01-02"
 email = "contact@grantwilson.ca"
@@ -94,7 +94,7 @@ weight = 1
 
 [[menu.main]]
 name = "Publications"
-url = "#publications_selected"
+url = "#publications"
 weight = 2
 
 [[menu.main]]
